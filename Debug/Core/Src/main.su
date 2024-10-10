@@ -1,0 +1,16 @@
+main.c:83:5:main	8	static
+main.c:144:6:SystemClock_Config	72	static
+main.c:180:13:MX_SPI1_Init	8	static
+main.c:218:13:MX_GPIO_Init	32	static
+main.c:259:6:mover	8	static
+main.c:288:7:Definir_local	32	static
+main.c:316:6:inicializar_tabuleiro	16	static
+main.c:327:7:exibir_tabuleiro	32	static
+main.c:345:7:efetuar_jogada	16	static
+main.c:360:7:alternar_jogador	4	static
+main.c:375:7:jogar_partida	32	static
+main.c:410:7:jogar_melhor_de_tres	24	static
+main.c:432:7:ChamaHashtag	24	static
+main.c:444:6:verificar_vencedor	56	static
+main.c:485:7:desenha_pela_coordenada	112	dynamic
+main.c:590:6:Error_Handler	4	static,ignoring_inline_asm
